@@ -2,10 +2,11 @@
 
 # dependencies
 /node_modules
+/assets
 /.pnp
 .pnp.js
 .env
-
+build_json.py
 # testing
 /coverage
 
